@@ -1,5 +1,5 @@
 # Unity3d-Force-Directed-Graph
-Unity3d-Force-Directed-Graph
+Unity3d Force Directed Graph
 
 There is no open source(Unity3D) to look at with Google. (only youtube :( )
 So I created a unity3d graph with vertices and edges.(Of course, it was not optimized, but it was made with an arbitrary algorithm.)
