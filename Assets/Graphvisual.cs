@@ -91,10 +91,11 @@ public class Graphvisual : MonoBehaviour
 
         Vector3 dot = nodearray[snode].position - nodearray[edgearray[ekey].endNodeIndex].position;
 
-
         dot.Normalize();
         nodearray[snode].position
             += dot * subEdgetoVector[0].Value / otu;
+            
+            Debug.Log("dot normalized start");
 
     }
 
