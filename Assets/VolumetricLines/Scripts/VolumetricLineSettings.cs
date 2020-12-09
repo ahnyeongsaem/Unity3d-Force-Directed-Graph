@@ -16,7 +16,8 @@ public class VolumetricLineSettings : MonoBehaviour
 	/// </summary>
 	[SerializeField]
 	private bool m_disableFieldOfViewScaling;
-
+	
+	private bool m_disadouctempopensouce;
 
 	// Use this for initialization
 	void Awake ()
@@ -29,6 +30,7 @@ public class VolumetricLineSettings : MonoBehaviour
 		{
 			Shader.DisableKeyword("FOV_SCALING_OFF");
 		}
+		//Debug.log("test awkae volumetric";
 	}
 	
 }
