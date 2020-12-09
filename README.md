@@ -14,7 +14,7 @@ Here's what will be updated in the future: I am currently making it by myself, b
 
 1. File I / O and json, xml available
 2. Vertex (node), edge adjacency list (currently supports only adjacency matrix)
-3. UGUI
+3. Unity User Graphic Interface(UGUI)
 4. Initialization Random coordinates (vertex) regeneration
 5. Line, point design change
 
